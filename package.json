@@ -41,7 +41,6 @@
     "event-stream": "^3.3.2",
     "gulp": "^3.9.1",
     "gulp-util": "^3.0.7",
-    "mocha": "^2.4.5",
     "nodemon": "^1.9.1",
     "tap-spec": "^4.1.1",
     "tape": "^4.5.1"
