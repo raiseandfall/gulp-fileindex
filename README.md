@@ -5,6 +5,8 @@ Status](https://travis-ci.org/raiseandfall/gulp-fileindex.svg)](https://travis-c
 
 > Outputs a list of pages links in an HTML page
 
+> There is also a version for [Broccoli](https://github.com/raiseandfall/broccoli-fileindex)
+
 ## [CHANGELOG](./CHANGELOG.md)
 
 ## INSTALL
