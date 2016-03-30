@@ -18,7 +18,8 @@ var fileindex = require('gulp-fileindex');
 
 gulp.task('fileindex', function() {
   return gulp.src('pages/*.html')
-    .pipe(fileindex());
+    .pipe(fileindex())
+    .pipe(gulp.dest('./'));
 });
 ```
 
@@ -33,15 +34,25 @@ _Optional_
 
 Filename for the listing page where the links will be written.
 
-#### options.showOnlyFilename
+#### options.onlyFilenames
 Type: `Boolean`  
 _Optional_  
 **Default** false  
 
 Wether or not to show only the filenames in the HTML listing page.
 
+#### options.showExtension
+Type: `Boolean`  
+_Optional_  
+**Default** true
+
+Wether or not to show the pages' file extension
+
 ## CONTRIBUTE
 ```shell
+$ npm run dev
+
+# Only run the tests
 $ npm run test
 ```
 
