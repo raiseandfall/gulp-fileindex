@@ -1,6 +1,6 @@
 {
   "name": "gulp-fileindex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Outputs a list of pages links in an HTML page",
   "scripts": {
     "dev": "nodemon -q -x 'npm run test'",
