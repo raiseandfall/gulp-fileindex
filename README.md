@@ -1,7 +1,7 @@
 # gulp-fileindex  
 
 [![Build
-Status](https://travis-ci.org/raiseandfall/gulp-fileindex.svg)](https://travis-ci.org/raiseandfall/gulp-fileindex)  
+Status](https://travis-ci.org/raiseandfall/gulp-fileindex.svg)](https://travis-ci.org/raiseandfall/gulp-fileindex) [![Downloads](https://img.shields.io/npm/dt/gulp-fileindex.svg)](https://www.npmjs.com/package/gulp-fileindex)
 
 > Outputs a list of pages links in an HTML page
 
